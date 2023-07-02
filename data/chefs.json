@@ -1,0 +1,404 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://drive.google.com/file/d/1oDRAXsbjjQC9HBPAcvsM3U4MBTx_2uQB/view?usp=sharing",
+      "chef_name": "Saddam Hossen",
+      "years_of_experience": 7,
+      "number_of_recipes": 30,
+      "likes": "2k",
+      "chef_bio": "Saddam Hossen is a Bangladeshi chef and restaurateur known for his approachable cuisine and campaigns for healthy eating. He has written several bestselling cookbooks and hosted multiple cooking shows on TV.",
+      "recipes": [
+        {
+          "recipe_id": "100",
+          "food_img": "https://drive.google.com/file/d/1eN94b69hXslvUraPI7uH5LyAArJLccKr/view?usp=sharing",
+          "recipe_name": "Beef Curry",
+          "ingredients": [
+            "2 pounds boneless beef chuck",
+            "1 cup water",
+            "3 tablespoons olive oil",
+            "3 onion, chopped",
+            "6 cloves garlic",
+            "5 green chile peppers",
+            "1 teaspoon ginger paste",
+            "3 whole cardamom seeds",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garlic powder"
+          ],
+          "cooking_method": "1. Heat olive oil in a skillet over medium heat, Add onion. 2. Stir in the garlic, green chiles, ginger paste, cardamom seeds, cloves.Cook and stir until the garlic begins to brown 3. Mix cumin, coriander, turmeric, garlic powder, cayenne pepper, and water into the onion mixture. 4. Stir in beef chuck pieces until coated with spice mixture;until the beef is cooked through and tender, about 1 to 1 1/2 hours.",
+          "rating": 4.9
+        },
+        {
+          "recipe_id": "200",
+          "food_img": "https://drive.google.com/file/d/1WHMSBX5l0JJPgQRz3v7D1gPOSfgBxvLh/view?usp=sharing",
+          "recipe_name": "Chicken Curry",
+          "ingredients": [
+            "whole chicken",
+            "lemon",
+            "garlic",
+            "thyme",
+            "butter",
+            "salt",
+            "pepper"
+          ],
+          "cooking_method": "1. Preheat oven to 425°F. 2. Season chicken with salt and pepper. 3. Stuff the chicken cavity with lemon wedges, garlic cloves, and thyme sprigs. 4. Rub the chicken with softened butter. 5. Roast in the oven for 50-60 minutes or until the internal temperature reaches 165°F.",
+          "rating": 4.8
+        },
+        {
+          "recipe_id": "300",
+          "food_img": "https://drive.google.com/file/d/1n2jvOdakQHTvCGJ1bY5Ql3RG9cAIUsSQ/view?usp=sharing",
+          "recipe_name": "Ilish Paturi",
+          "ingredients": [
+            "hilsa fish 6 pcs (3-cm-thick pieces)",
+            "75g mustard seeds",
+            "40g coconut (peeled)",
+            "50g yoghurt (beaten)",
+            "35g salt",
+            "5g sugar",
+            "5g turmeric powder",
+            "30g mustard oil"
+          ],
+          "cooking_method": "1. Soak mustard seeds overnight in water. 2. Now, grinder the peeled and chopped coconut, along with salt, sugar, and turmeric powder. 3. Spoon this mixture over the ilish machh, dividing it equally. 4. Add a tablespoon of oil to the tawa (pan). Once hot, place the parcels on it side by side. 6. Steam  on low heat for 15 minutes on each side.",
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://drive.google.com/file/d/10JbVxaMzAWkL89DuObGSLLd2NMPj_w_U/view?usp=sharing",
+      "chef_name": "Tully Akter",
+      "years_of_experience": 5,
+      "number_of_recipes": 25,
+      "likes": "4.1k",
+      "chef_bio": "Tully Akter is a Bangladeshi food writer and TV personality known for her approachable and indulgent cooking style. She has written several bestselling cookbooks and hosted multiple cooking shows on TV. She is also an advocate for body positivity and has been vocal about her own struggles with body image.",
+      "recipes": [
+        {
+          "recipe_id": "400",
+          "food_img": "https://drive.google.com/file/d/1UL8o4Ov6gCooSN8SEgEUgUNyuaUgqPQi/view?usp=sharing",
+          "recipe_name": "Chocolate Fudge Cake",
+          "ingredients": [
+            "Mutton mix boti ½ kg",
+            "Shahi zeera ½ tsp",
+            "Darchini 2-3",
+            "Hari elaichi 4-5",
+            "Sabut kali mirch ½ tsp",
+            "Zeera 1 tbs",
+            "Jaifil ½ piece",
+            "Cooking oil 1-2 tbs",
+            "Cooking oil ½ Cup",
+            "Dry milk powder ¼ Cup",
+            "Pyaz (Fried) ¼ Cup",
+            "Kewra water 1 tbs",
+            "Water hot ½ Cup",
+            "Aloo piece 6 small "
+          ],
+          "cooking_method": "1. In spice mixer,add caraway seeds,black cardamom,green cardamom,cinnamon sticks,black peppercorns,cumin seeds,nutmeg,mace,grind to make coarse powder & set aside. 2. In bowl,add potatoes,yellow food color and mix well. 3. In wok,add cooking oil and fry potatoes until light golden brown & set aside. 4. In pot,add mutton mix boti,ground spices,garlic paste,ginger paste,green chili,turmeric powder,red chili powder,garam masala powder,salt,lemon juice,yogurt,fried onion and mix well. 5.Add kewra water add ghee,dry milk powder,whisk well & set aside. 6. place pot and cook on high flame for 10 minutes to build up the steam then cook on low flame for 1 hour.",
+          "rating": 4.4
+        },
+        {
+          "recipe_id": "500",
+          "food_img": "https://drive.google.com/file/d/18fVvIrjYfE4Lg_i8RcOuQtqKewY-hzWV/view?usp=sharing",
+          "recipe_name": "Khichuri",
+          "ingredients": [
+            "2 cup Basmati rice",
+            "1 cup Mung bean",
+            "½ cup ghee or butter",
+            "½ cup onion, sliced",
+            "2 green chilies",
+            "5 cups boiled water",
+            "1 tablespoons salt",
+            "1 teaspoon roasted cumin powder",
+            "1 teaspoon ginger paste",
+            "2 teaspoons garlic paste"
+          ],
+          "cooking_method": "1. Wash rice and mung bean. Strain all the water. Set aside. 2. Add ghee/butter in a pan on medium heat. Add onion and sautee until slightly golden. 3. Add everything from chilies to cinnamon. Fry for 2-3 minutes or until fragrant. 4. Add salt and boiled water. At the sight of bubbles, put a lid on the pan and cook for 20-22 minutes or until rice and bean is done. 5. Serve with pickled onion.",
+          "rating": 4.6
+        },
+        {
+          "recipe_id": "600",
+          "food_img": "https://drive.google.com/file/d/1NXmm0cDTKsHO4jH9UpjZesyG-BoKqDq3/view?usp=sharing",
+          "recipe_name": "Aloo Potol Posto",
+          "ingredients": [
+            "15 Pointed potol",
+            "3 to 4 Aloo skin peeled",
+            "1/2 teaspoon Methi Seeds",
+            "1/2 teaspoon Cumin seeds",
+            "1 teaspoon Fennel seeds ",
+            "3 Cloves",
+            "1 pcs Cinnamon Stick",
+            "1 teaspoon Salt",
+            "1/2 cup Mustard oil",
+            "2 tablespoon Poppy seeds",
+            "1/2 cup Fresh coconut "
+          ],
+          "cooking_method": "1. Heat the pan with oil and roast by adding methi,cumin, fennel,cloves,cardamom, dry red chilli along with ginger, grated coconut and poppy seeds.Fry till the aroma comes out. 2. With the leftover oil temper green chilies and add the (coconut-poppy seed) masala paste. Sprinkle the spice powders and fry till the oil comes out from the masala. 3. Finally add the vegetables. Add water and cook it for some more time for about 10 minutes .",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://drive.google.com/file/d/13WFj4VpaXwxifAdHyTNAvY8WV5cS2-a3/view?usp=sharing",
+      "chef_name": "Rakib Hossen",
+      "years_of_experience": 6,
+      "number_of_recipes": 35,
+      "likes": "5.2k",
+      "chef_bio": "Rakib Hossen is a Bangladeshi chef, restaurateur, writer, and television personality. He is known for his fiery temper and no-nonsense approach to cooking, which has earned him both praise and criticism.",
+      "recipes": [
+        {
+          "recipe_id": "700",
+          "food_img": "https://drive.google.com/file/d/19wR5PZwLNPQQfA7PwzA_DHzKeDI_Mgxx/view?usp=sharing",
+          "recipe_name": "Chingri Bhuna",
+          "ingredients": [
+            "1 1/2 lb tiger prawns",
+            "1/2 tsp turmeric powder",
+            "1/4 tsp red chili powder",
+            "2 tsp salt",
+            "1/2 cup mustard/vegetable oil",
+            "1/2 cup onion paste",
+            "1 tbsp ginger paste",
+            "1 tbsp garlic paste",
+            "1 tsp gorom mosholla",
+            "Water"
+          ],
+          "cooking_method": "1. Heat mustard oil in a kadai and add sliced onions to them. 2. Add the red chilli paste and pounded garlic to them. 3. Add the turmeric powder, red chilli powder and salt and keep wtirring until you see the oil starting to float on top. 4. Now add the chingri 5. Lower the flame and simmer for 10 minutes. ",
+          "rating": 4.8
+        },
+        {
+          "recipe_id": "800",
+          "food_img": "https://drive.google.com/file/d/1stJ2-uR4hqZJaRL4I_uOpYOWDW67UH7T/view?usp=sharing",
+          "recipe_name": "Panta ilish",
+          "ingredients": [
+            "Panta bhaat",
+            "6 Ilish pieces",
+            "½ teaspoon red bean stew powder",
+            "½ teaspoon turmeric",
+            "Salt, as indicated by taste",
+            "Oil, for frying"
+          ],
+          "cooking_method": "1. Clean fish pieces. 2. Rub bean stew powder, turmeric, and salt liberally on the fish pieces. 3. Warmth oil in medium high. 5. Fry until brilliant and fresh.",
+          "rating": 4.6
+        },
+        {
+          "recipe_id": "900",
+          "food_img": "https://drive.google.com/file/d/1G2XJT6CnwroFcLuz3FLo3Rg5BHwNw0Xg/view?usp=sharing",
+          "recipe_name": "Fulkopi Chingri Jhol",
+          "ingredients": [
+            "8 nos medium or large sized tiger prawns",
+            "1 tsp turmeric powder",
+            "2 tsp red chili powder",
+            "2 nos medium sized potatoes",
+            "2 tsp ginger paste",
+            "1 1/2 tsp cumin powder",
+            "1/2 tsp sugar",
+            "3 tbsp mustard oil",
+            "1 tsp ghee",
+            "1/4 tsp Bengali garam masala",
+            "2-3 nos green chilies"
+          ],
+          "cooking_method": "1. Marinade the prawns with salt and 1/2 tsp turmeric powder. 2. Then in a kadai, take 1 tbsp mustard oil and fry the cauliflowers and potatoes till they are nice and golden. 3. Lightly fry the prawns on each side 4. In a small bowl, take ginger paste, balance turmeric powder, red chili powder, cumin powder salt and some water to make a paste. 5. At that point, add the prawns and if required, add little water. Adjust the seasoning and add sugar. Increase the heat and let it boil. Give it a final boil and turn off the heat.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://drive.google.com/file/d/1GsdFD8XHMfctqnpDuIPfpmFtqW24STkw/view?usp=sharing",
+      "chef_name": "Ambia Pervin",
+      "years_of_experience": 7,
+      "number_of_recipes": 38,
+      "likes": "3.5k",
+      "chef_bio": "Ambia Pervin is a Bangladeshi food writer, television personality, and cookbook author. She is known for her approachable, home-cooking style and her love of comfort food. Doe has written numerous bestselling cookbooks, including How to Eat and Nigella Bites, and has hosted several cooking shows, including Nigella Bites and Nigella Feasts.",
+      "recipes": [
+        {
+          "recipe_id": "1000",
+          "food_img": "https://drive.google.com/file/d/1eN94b69hXslvUraPI7uH5LyAArJLccKr/view?usp=sharing",
+          "recipe_name": "Beef Curry",
+          "ingredients": [
+            "2 pounds boneless beef chuck",
+            "1 cup water",
+            "3 tablespoons olive oil",
+            "3 onion, chopped",
+            "6 cloves garlic",
+            "5 green chile peppers",
+            "1 teaspoon ginger paste",
+            "3 whole cardamom seeds",
+            "1 teaspoon ground turmeric",
+            "1 teaspoon garlic powder"
+          ],
+          "cooking_method": "1. Heat olive oil in a skillet over medium heat, Add onion. 2. Stir in the garlic, green chiles, ginger paste, cardamom seeds, cloves.Cook and stir until the garlic begins to brown 3. Mix cumin, coriander, turmeric, garlic powder, cayenne pepper, and water into the onion mixture. 4. Stir in beef chuck pieces until coated with spice mixture;until the beef is cooked through and tender, about 1 to 1 1/2 hours.",
+          "rating": 4.9
+        },
+        {
+          "recipe_id": "1100",
+          "food_img": "https://drive.google.com/file/d/1WHMSBX5l0JJPgQRz3v7D1gPOSfgBxvLh/view?usp=sharing",
+          "recipe_name": "Chicken Curry",
+          "ingredients": [
+            "whole chicken",
+            "lemon",
+            "garlic",
+            "thyme",
+            "butter",
+            "salt",
+            "pepper"
+          ],
+          "cooking_method": "1. Preheat oven to 425°F. 2. Season chicken with salt and pepper. 3. Stuff the chicken cavity with lemon wedges, garlic cloves, and thyme sprigs. 4. Rub the chicken with softened butter. 5. Roast in the oven for 50-60 minutes or until the internal temperature reaches 165°F.",
+          "rating": 4.8
+        },
+        {
+          "recipe_id": "1200",
+          "food_img": "https://drive.google.com/file/d/1n2jvOdakQHTvCGJ1bY5Ql3RG9cAIUsSQ/view?usp=sharing",
+          "recipe_name": "Ilish Paturi",
+          "ingredients": [
+            "hilsa fish 6 pcs (3-cm-thick pieces)",
+            "75g mustard seeds",
+            "40g coconut (peeled)",
+            "50g yoghurt (beaten)",
+            "35g salt",
+            "5g sugar",
+            "5g turmeric powder",
+            "30g mustard oil"
+          ],
+          "cooking_method": "1. Soak mustard seeds overnight in water. 2. Now, grinder the peeled and chopped coconut, along with salt, sugar, and turmeric powder. 3. Spoon this mixture over the ilish machh, dividing it equally. 4. Add a tablespoon of oil to the tawa (pan). Once hot, place the parcels on it side by side. 6. Steam  on low heat for 15 minutes on each side.",
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chef_picture": "https://drive.google.com/file/d/18ed_8tU5fiPklsKW8AfinEeCPD_iJzFl/view?usp=sharing",
+      "chef_name": "Maruf Hossen",
+      "years_of_experience": 8,
+      "number_of_recipes": 50,
+      "likes": "6.4k",
+      "chef_bio": "Maruf Hossen is a Bangladeshi chef and restaurateur known for his approachable cuisine and campaigns for healthy eating. He has written several bestselling cookbooks and hosted multiple cooking shows on TV.",
+      "recipes": [
+        {
+          "recipe_id": "1300",
+          "food_img": "https://drive.google.com/file/d/1UL8o4Ov6gCooSN8SEgEUgUNyuaUgqPQi/view?usp=sharing",
+          "recipe_name": "Chocolate Fudge Cake",
+          "ingredients": [
+            "Mutton mix boti ½ kg",
+            "Shahi zeera ½ tsp",
+            "Darchini 2-3",
+            "Hari elaichi 4-5",
+            "Sabut kali mirch ½ tsp",
+            "Zeera 1 tbs",
+            "Jaifil ½ piece",
+            "Cooking oil 1-2 tbs",
+            "Cooking oil ½ Cup",
+            "Dry milk powder ¼ Cup",
+            "Pyaz (Fried) ¼ Cup",
+            "Kewra water 1 tbs",
+            "Water hot ½ Cup",
+            "Aloo piece 6 small "
+          ],
+          "cooking_method": "1. In spice mixer,add caraway seeds,black cardamom,green cardamom,cinnamon sticks,black peppercorns,cumin seeds,nutmeg,mace,grind to make coarse powder & set aside. 2. In bowl,add potatoes,yellow food color and mix well. 3. In wok,add cooking oil and fry potatoes until light golden brown & set aside. 4. In pot,add mutton mix boti,ground spices,garlic paste,ginger paste,green chili,turmeric powder,red chili powder,garam masala powder,salt,lemon juice,yogurt,fried onion and mix well. 5.Add kewra water add ghee,dry milk powder,whisk well & set aside. 6. place pot and cook on high flame for 10 minutes to build up the steam then cook on low flame for 1 hour.",
+          "rating": 4.4
+        },
+        {
+          "recipe_id": "1400",
+          "food_img": "https://drive.google.com/file/d/18fVvIrjYfE4Lg_i8RcOuQtqKewY-hzWV/view?usp=sharing",
+          "recipe_name": "Khichuri",
+          "ingredients": [
+            "2 cup Basmati rice",
+            "1 cup Mung bean",
+            "½ cup ghee or butter",
+            "½ cup onion, sliced",
+            "2 green chilies",
+            "5 cups boiled water",
+            "1 tablespoons salt",
+            "1 teaspoon roasted cumin powder",
+            "1 teaspoon ginger paste",
+            "2 teaspoons garlic paste"
+          ],
+          "cooking_method": "1. Wash rice and mung bean. Strain all the water. Set aside. 2. Add ghee/butter in a pan on medium heat. Add onion and sautee until slightly golden. 3. Add everything from chilies to cinnamon. Fry for 2-3 minutes or until fragrant. 4. Add salt and boiled water. At the sight of bubbles, put a lid on the pan and cook for 20-22 minutes or until rice and bean is done. 5. Serve with pickled onion.",
+          "rating": 4.6
+        },
+        {
+          "recipe_id": "1500",
+          "food_img": "https://drive.google.com/file/d/1NXmm0cDTKsHO4jH9UpjZesyG-BoKqDq3/view?usp=sharing",
+          "recipe_name": "Aloo Potol Posto",
+          "ingredients": [
+            "15 Pointed potol",
+            "3 to 4 Aloo skin peeled",
+            "1/2 teaspoon Methi Seeds",
+            "1/2 teaspoon Cumin seeds",
+            "1 teaspoon Fennel seeds ",
+            "3 Cloves",
+            "1 pcs Cinnamon Stick",
+            "1 teaspoon Salt",
+            "1/2 cup Mustard oil",
+            "2 tablespoon Poppy seeds",
+            "1/2 cup Fresh coconut "
+          ],
+          "cooking_method": "1. Heat the pan with oil and roast by adding methi,cumin, fennel,cloves,cardamom, dry red chilli along with ginger, grated coconut and poppy seeds.Fry till the aroma comes out. 2. With the leftover oil temper green chilies and add the (coconut-poppy seed) masala paste. Sprinkle the spice powders and fry till the oil comes out from the masala. 3. Finally add the vegetables. Add water and cook it for some more time for about 10 minutes .",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://drive.google.com/file/d/1JHvqYJmxqVtcziOaIGLNMPsxZMPKF68s/view?usp=sharing",
+      "chef_name": "Sumaya Akter",
+      "years_of_experience": 9,
+      "number_of_recipes": 55,
+      "likes": "8.2k",
+      "chef_bio": "Sumaya Akter is a Bangladeshi chef, restaurateur, writer, and television personality. She has owned and operated several restaurants, including the renowned Restaurant Sarah Lee in London.Sarah has also hosted several cooking shows, including Hell's Kitchen and MasterChef, and has written numerous cookbooks.",
+      "recipes": [
+        {
+          "recipe_id": "1600",
+          "food_img": "https://drive.google.com/file/d/19wR5PZwLNPQQfA7PwzA_DHzKeDI_Mgxx/view?usp=sharing",
+          "recipe_name": "Chingri Bhuna",
+          "ingredients": [
+            "1 1/2 lb tiger prawns",
+            "1/2 tsp turmeric powder",
+            "1/4 tsp red chili powder",
+            "2 tsp salt",
+            "1/2 cup mustard/vegetable oil",
+            "1/2 cup onion paste",
+            "1 tbsp ginger paste",
+            "1 tbsp garlic paste",
+            "1 tsp gorom mosholla",
+            "Water"
+          ],
+          "cooking_method": "1. Heat mustard oil in a kadai and add sliced onions to them. 2. Add the red chilli paste and pounded garlic to them. 3. Add the turmeric powder, red chilli powder and salt and keep wtirring until you see the oil starting to float on top. 4. Now add the chingri 5. Lower the flame and simmer for 10 minutes. ",
+          "rating": 4.8
+        },
+        {
+          "recipe_id": "1700",
+          "food_img": "https://drive.google.com/file/d/1stJ2-uR4hqZJaRL4I_uOpYOWDW67UH7T/view?usp=sharing",
+          "recipe_name": "Panta ilish",
+          "ingredients": [
+            "Panta bhaat",
+            "6 Ilish pieces",
+            "½ teaspoon red bean stew powder",
+            "½ teaspoon turmeric",
+            "Salt, as indicated by taste",
+            "Oil, for frying"
+          ],
+          "cooking_method": "1. Clean fish pieces. 2. Rub bean stew powder, turmeric, and salt liberally on the fish pieces. 3. Warmth oil in medium high. 5. Fry until brilliant and fresh.",
+          "rating": 4.6
+        },
+        {
+          "recipe_id": "1800",
+          "food_img": "https://drive.google.com/file/d/1G2XJT6CnwroFcLuz3FLo3Rg5BHwNw0Xg/view?usp=sharing",
+          "recipe_name": "Fulkopi Chingri Jhol",
+          "ingredients": [
+            "8 nos medium or large sized tiger prawns",
+            "1 tsp turmeric powder",
+            "2 tsp red chili powder",
+            "2 nos medium sized potatoes",
+            "2 tsp ginger paste",
+            "1 1/2 tsp cumin powder",
+            "1/2 tsp sugar",
+            "3 tbsp mustard oil",
+            "1 tsp ghee",
+            "1/4 tsp Bengali garam masala",
+            "2-3 nos green chilies"
+          ],
+          "cooking_method": "1. Marinade the prawns with salt and 1/2 tsp turmeric powder. 2. Then in a kadai, take 1 tbsp mustard oil and fry the cauliflowers and potatoes till they are nice and golden. 3. Lightly fry the prawns on each side 4. In a small bowl, take ginger paste, balance turmeric powder, red chili powder, cumin powder salt and some water to make a paste. 5. At that point, add the prawns and if required, add little water. Adjust the seasoning and add sugar. Increase the heat and let it boil. Give it a final boil and turn off the heat.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
