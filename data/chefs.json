@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://drive.google.com/file/d/1oDRAXsbjjQC9HBPAcvsM3U4MBTx_2uQB/view?usp=sharing",
+      "chef_picture": "https://media.istockphoto.com/id/1217012868/photo/handsome-young-african-chef-standing-in-professional-kitchen-in-restaurant-preparing-a-meal.jpg?b=1&s=170667a&w=0&k=20&c=pcVtkj_n-iKi8xbb5NylgStFk4zN2EF9pYmvZKd-Kno=",
       "chef_name": "Saddam Hossen",
       "years_of_experience": 7,
       "number_of_recipes": 30,
@@ -10,7 +10,7 @@
       "recipes": [
         {
           "recipe_id": "100",
-          "food_img": "https://drive.google.com/file/d/1eN94b69hXslvUraPI7uH5LyAArJLccKr/view?usp=sharing",
+          "food_img": "http://2.bp.blogspot.com/-drjO28X4iOY/UaCmi4bKyuI/AAAAAAAAR9g/4AOMKLrNXR0/s1600/Beef+Curry5.jpg",
           "recipe_name": "Beef Curry",
           "ingredients": [
             "2 pounds boneless beef chuck",
@@ -29,7 +29,7 @@
         },
         {
           "recipe_id": "200",
-          "food_img": "https://drive.google.com/file/d/1WHMSBX5l0JJPgQRz3v7D1gPOSfgBxvLh/view?usp=sharing",
+          "food_img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chicken_Curry.JPG",
           "recipe_name": "Chicken Curry",
           "ingredients": [
             "whole chicken",
@@ -45,8 +45,8 @@
         },
         {
           "recipe_id": "300",
-          "food_img": "https://drive.google.com/file/d/1n2jvOdakQHTvCGJ1bY5Ql3RG9cAIUsSQ/view?usp=sharing",
-          "recipe_name": "Ilish Paturi",
+          "food_img": "https://www.desicookingrecipes.com/wp-content/uploads/2020/06/1591432354_maxresdefault-950x534.jpg",
+          "recipe_name": "ilish Paturi",
           "ingredients": [
             "hilsa fish 6 pcs (3-cm-thick pieces)",
             "75g mustard seeds",
@@ -64,7 +64,7 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://drive.google.com/file/d/10JbVxaMzAWkL89DuObGSLLd2NMPj_w_U/view?usp=sharing",
+      "chef_picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=ipTCbxl_uVkSR9fnU2K1tdgXkRbxIiKgjdCswi4rHmg=",
       "chef_name": "Tully Akter",
       "years_of_experience": 5,
       "number_of_recipes": 25,
@@ -73,8 +73,8 @@
       "recipes": [
         {
           "recipe_id": "400",
-          "food_img": "https://drive.google.com/file/d/1UL8o4Ov6gCooSN8SEgEUgUNyuaUgqPQi/view?usp=sharing",
-          "recipe_name": "Chocolate Fudge Cake",
+          "food_img": "https://2.bp.blogspot.com/-B0hKk40CChk/WRfIe3eFtWI/AAAAAAAAAOw/uhPsjCwVWIo2B6oovv399_5VHXLJrGHpQCLcB/s1600/Nawabi-Hyderabadi-Biryani-recipe.jpg",
+          "recipe_name": "Kacchi Biryani",
           "ingredients": [
             "Mutton mix boti ½ kg",
             "Shahi zeera ½ tsp",
@@ -96,7 +96,7 @@
         },
         {
           "recipe_id": "500",
-          "food_img": "https://drive.google.com/file/d/18fVvIrjYfE4Lg_i8RcOuQtqKewY-hzWV/view?usp=sharing",
+          "food_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
           "recipe_name": "Khichuri",
           "ingredients": [
             "2 cup Basmati rice",
@@ -115,7 +115,7 @@
         },
         {
           "recipe_id": "600",
-          "food_img": "https://drive.google.com/file/d/1NXmm0cDTKsHO4jH9UpjZesyG-BoKqDq3/view?usp=sharing",
+          "food_img": "https://media.newstrack.in/uploads/lifestyle/recipe/Jun/17/big_thumb/aloo_5763e677d9ad4.JPG",
           "recipe_name": "Aloo Potol Posto",
           "ingredients": [
             "15 Pointed potol",
@@ -137,7 +137,7 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://drive.google.com/file/d/13WFj4VpaXwxifAdHyTNAvY8WV5cS2-a3/view?usp=sharing",
+      "chef_picture": "https://media.istockphoto.com/id/1341912104/photo/portrait-of-a-successful-chef-at-a-restaurant-with-arms-crossed.jpg?b=1&s=170667a&w=0&k=20&c=kCMSVa_iM3QQJVNz-j0OzvE4Em4rjsYIHxqFfSotEZw=",
       "chef_name": "Rakib Hossen",
       "years_of_experience": 6,
       "number_of_recipes": 35,
@@ -146,7 +146,7 @@
       "recipes": [
         {
           "recipe_id": "700",
-          "food_img": "https://drive.google.com/file/d/19wR5PZwLNPQQfA7PwzA_DHzKeDI_Mgxx/view?usp=sharing",
+          "food_img": "https://1minutenewz.in/wp-content/uploads/2023/01/tasty-Chingri-Bhuna-recipe-780x470.jpg?v=1674368037",
           "recipe_name": "Chingri Bhuna",
           "ingredients": [
             "1 1/2 lb tiger prawns",
@@ -165,7 +165,7 @@
         },
         {
           "recipe_id": "800",
-          "food_img": "https://drive.google.com/file/d/1stJ2-uR4hqZJaRL4I_uOpYOWDW67UH7T/view?usp=sharing",
+          "food_img": "https://tse3.mm.bing.net/th?id=OIP.pyAMd9b0t7OlgOPL8PdLJQHaDt&pid=Api&P=0&w=300&h=300",
           "recipe_name": "Panta ilish",
           "ingredients": [
             "Panta bhaat",
@@ -180,7 +180,7 @@
         },
         {
           "recipe_id": "900",
-          "food_img": "https://drive.google.com/file/d/1G2XJT6CnwroFcLuz3FLo3Rg5BHwNw0Xg/view?usp=sharing",
+          "food_img": "https://i1.wp.com/pikturenama.com/wp-content/uploads/2020/05/low-res-Fulkopi-diye-chingri-machh-2.jpg?ssl=1",
           "recipe_name": "Fulkopi Chingri Jhol",
           "ingredients": [
             "8 nos medium or large sized tiger prawns",
@@ -202,7 +202,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://drive.google.com/file/d/1GsdFD8XHMfctqnpDuIPfpmFtqW24STkw/view?usp=sharing",
+      "chef_picture": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
       "chef_name": "Ambia Pervin",
       "years_of_experience": 7,
       "number_of_recipes": 38,
@@ -211,7 +211,7 @@
       "recipes": [
         {
           "recipe_id": "1000",
-          "food_img": "https://drive.google.com/file/d/1eN94b69hXslvUraPI7uH5LyAArJLccKr/view?usp=sharing",
+          "food_img": "http://2.bp.blogspot.com/-drjO28X4iOY/UaCmi4bKyuI/AAAAAAAAR9g/4AOMKLrNXR0/s1600/Beef+Curry5.jpg",
           "recipe_name": "Beef Curry",
           "ingredients": [
             "2 pounds boneless beef chuck",
@@ -230,7 +230,7 @@
         },
         {
           "recipe_id": "1100",
-          "food_img": "https://drive.google.com/file/d/1WHMSBX5l0JJPgQRz3v7D1gPOSfgBxvLh/view?usp=sharing",
+          "food_img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chicken_Curry.JPG",
           "recipe_name": "Chicken Curry",
           "ingredients": [
             "whole chicken",
@@ -246,8 +246,8 @@
         },
         {
           "recipe_id": "1200",
-          "food_img": "https://drive.google.com/file/d/1n2jvOdakQHTvCGJ1bY5Ql3RG9cAIUsSQ/view?usp=sharing",
-          "recipe_name": "Ilish Paturi",
+          "food_img": "https://www.desicookingrecipes.com/wp-content/uploads/2020/06/1591432354_maxresdefault-950x534.jpg",
+          "recipe_name": "ilish Paturi",
           "ingredients": [
             "hilsa fish 6 pcs (3-cm-thick pieces)",
             "75g mustard seeds",
@@ -265,7 +265,7 @@
     },
     {
       "id": 5,
-      "chef_picture": "https://drive.google.com/file/d/18ed_8tU5fiPklsKW8AfinEeCPD_iJzFl/view?usp=sharing",
+      "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683024360~exp=1683024960~hmac=f893f3fe4203d0b651dfaa05de39711459550e90004a2c749d68e76128a4bac1",
       "chef_name": "Maruf Hossen",
       "years_of_experience": 8,
       "number_of_recipes": 50,
@@ -274,8 +274,8 @@
       "recipes": [
         {
           "recipe_id": "1300",
-          "food_img": "https://drive.google.com/file/d/1UL8o4Ov6gCooSN8SEgEUgUNyuaUgqPQi/view?usp=sharing",
-          "recipe_name": "Chocolate Fudge Cake",
+          "food_img": "https://2.bp.blogspot.com/-B0hKk40CChk/WRfIe3eFtWI/AAAAAAAAAOw/uhPsjCwVWIo2B6oovv399_5VHXLJrGHpQCLcB/s1600/Nawabi-Hyderabadi-Biryani-recipe.jpg",
+          "recipe_name": "Kacchi Biryani",
           "ingredients": [
             "Mutton mix boti ½ kg",
             "Shahi zeera ½ tsp",
@@ -297,7 +297,7 @@
         },
         {
           "recipe_id": "1400",
-          "food_img": "https://drive.google.com/file/d/18fVvIrjYfE4Lg_i8RcOuQtqKewY-hzWV/view?usp=sharing",
+          "food_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
           "recipe_name": "Khichuri",
           "ingredients": [
             "2 cup Basmati rice",
@@ -316,7 +316,7 @@
         },
         {
           "recipe_id": "1500",
-          "food_img": "https://drive.google.com/file/d/1NXmm0cDTKsHO4jH9UpjZesyG-BoKqDq3/view?usp=sharing",
+          "food_img": "https://media.newstrack.in/uploads/lifestyle/recipe/Jun/17/big_thumb/aloo_5763e677d9ad4.JPG",
           "recipe_name": "Aloo Potol Posto",
           "ingredients": [
             "15 Pointed potol",
@@ -338,7 +338,7 @@
     },
     {
       "id": 6,
-      "chef_picture": "https://drive.google.com/file/d/1JHvqYJmxqVtcziOaIGLNMPsxZMPKF68s/view?usp=sharing",
+      "chef_picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
       "chef_name": "Sumaya Akter",
       "years_of_experience": 9,
       "number_of_recipes": 55,
@@ -347,7 +347,7 @@
       "recipes": [
         {
           "recipe_id": "1600",
-          "food_img": "https://drive.google.com/file/d/19wR5PZwLNPQQfA7PwzA_DHzKeDI_Mgxx/view?usp=sharing",
+          "food_img": "https://1minutenewz.in/wp-content/uploads/2023/01/tasty-Chingri-Bhuna-recipe-780x470.jpg?v=1674368037",
           "recipe_name": "Chingri Bhuna",
           "ingredients": [
             "1 1/2 lb tiger prawns",
@@ -366,7 +366,7 @@
         },
         {
           "recipe_id": "1700",
-          "food_img": "https://drive.google.com/file/d/1stJ2-uR4hqZJaRL4I_uOpYOWDW67UH7T/view?usp=sharing",
+          "food_img": "https://tse3.mm.bing.net/th?id=OIP.pyAMd9b0t7OlgOPL8PdLJQHaDt&pid=Api&P=0&w=300&h=300",
           "recipe_name": "Panta ilish",
           "ingredients": [
             "Panta bhaat",
@@ -381,7 +381,7 @@
         },
         {
           "recipe_id": "1800",
-          "food_img": "https://drive.google.com/file/d/1G2XJT6CnwroFcLuz3FLo3Rg5BHwNw0Xg/view?usp=sharing",
+          "food_img": "https://i1.wp.com/pikturenama.com/wp-content/uploads/2020/05/low-res-Fulkopi-diye-chingri-machh-2.jpg?ssl=1",
           "recipe_name": "Fulkopi Chingri Jhol",
           "ingredients": [
             "8 nos medium or large sized tiger prawns",
@@ -402,3 +402,5 @@
       ]
     }
   ]
+
+  
